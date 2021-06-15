@@ -1,0 +1,4 @@
+process.env.POSTGRES_URL
+process.env.POSTGRES_USERNAME
+process.env.POSTGRES_PASSWORD
+process.env.YOUTUBE_CHANNEL
